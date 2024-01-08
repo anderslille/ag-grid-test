@@ -62,7 +62,7 @@ import {
             rowData={rowData}
             columnDefs={columnDefs}
             defaultColDef={defaultColDef}
-            sideBar={'filters'}
+            sideBar={true}
             onGridReady={onGridReady}
           />
         </div>
